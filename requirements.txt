@@ -1,4 +1,3 @@
-notepad
 streamlit
 pandas
 plotly
